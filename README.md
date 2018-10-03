@@ -1,5 +1,5 @@
-# LibreNMS with Bootstrap Flat UI
-(http://designmodo.github.io/Flat-UI/)
+# LibreNMS with Flat UI
+Flat UI - http://designmodo.github.io/Flat-UI/
 
 Introduction
 ------------
